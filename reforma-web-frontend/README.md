@@ -1,24 +1,7 @@
 # reforma-web-frontend
 
-## Project setup
-```
-npm install
-```
+## Descrição
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Reforma Web é um projeto acadêmico. Trata-se de um site no qual as pessoas podem comprar ou vender materiais de construção que sobraram de suas reformas.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+O Frontend do projeto foi desenvolvido em Vue.js 3.
